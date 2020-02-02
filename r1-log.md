@@ -14,4 +14,6 @@ yeoman using python2 instead of python3.
 This will be a next step: how to change the python version on my box.
 Another next step should be a virtualization for coding.
 
+Tweet link: https://twitter.com/lakuehn/status/1224001899793387520?s=20
+
 ### R1D2
