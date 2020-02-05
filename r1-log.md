@@ -17,3 +17,23 @@ Another next step should be a virtualization for coding.
 Tweet link: https://twitter.com/lakuehn/status/1224001899793387520?s=20
 
 ### R1D2
+
+Setting up the environment further did bring some problems. Why I insisted on removing
+all those python packages from the system. 
+
+Tweet link: https://twitter.com/lakuehn/status/1224454296411836416?s=20
+
+### R1D3
+
+Tried to install the system and keep the home partition. I struggled with this nasty
+UEFI situation on my laptop...
+
+### R1D4
+
+This afternoon I finally found a secret switch in the battery case of the device and now
+the UEFI Secure boot installation finally worked. Only one hour more to recover the
+crypted filesystem in my home dir - so now my machine is up and runnning.
+
+Tweet link: https://twitter.com/lakuehn/status/1225179105290747905?s=20
+
+It is time to find some more visual results.
