@@ -37,3 +37,16 @@ crypted filesystem in my home dir - so now my machine is up and runnning.
 Tweet link: https://twitter.com/lakuehn/status/1225179105290747905?s=20
 
 It is time to find some more visual results.
+
+### R1D5
+
+Tired work after long day. I found a [complex tutorial for
+Flask](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) and plan to use
+it for my further steps.
+
+#### Python learnings:
+* virtualenv and activate it
+* __name__ is the name of the module from where the other module is called
+* __init__.py is the init file for a module. Here some things
+  are defined, I will lern more
+
