@@ -50,3 +50,21 @@ it for my further steps.
 * __init__.py is the init file for a module. Here some things
   are defined, I will lern more
 
+### R1D6
+
+Almost completed the VS Code Python and Flask Tutorial as a walkthrough
+through the world of flask. 
+
+I saw:
+* Python
+* Jinja
+* quick website building
+* foundation of URL-based programming (aka REST)
+* my laptop monitor is much to small
+* and in the afternoon I completed the GitHub Hello World project
+
+I am doing a lot of hello worlds right now. At day 10 latest i want to 
+be more in a project. Or wait: there was the mega flask tutorial. I will
+continue that and find out, if I can use it as well for exercising more
+Python.
+
