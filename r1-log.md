@@ -51,6 +51,8 @@ it for my further steps.
 * __name__ is the name of the module from where the other module is called
 * __init__.py is the init file for a module. Here some things
   are defined, I will lern more
+  
+Tweet link: https://twitter.com/lakuehn/status/1225545962917126144?s=20
 
 ### R1D6
 
@@ -70,6 +72,8 @@ I am doing a lot of hello worlds right now. At day 10 latest i want to
 be more in a project. Or wait: there was the mega flask tutorial. I will
 continue that and find out, if I can use it as well for exercising more
 Python.
+
+[Tweet link](https://twitter.com/lakuehn/status/1225846115570003969?s=20)
 
 ### R1D7
 
