@@ -52,7 +52,7 @@ it for my further steps.
 * __init__.py is the init file for a module. Here some things
   are defined, I will lern more
   
-Tweet link: https://twitter.com/lakuehn/status/1225545962917126144?s=20
+Tweet link: <https://twitter.com/lakuehn/status/1225545962917126144?s=20>
 
 ### R1D6
 
