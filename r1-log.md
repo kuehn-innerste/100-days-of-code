@@ -88,7 +88,9 @@ him forget his problems.
 
 ### R1D8
 
-Tired, almost ill: break (not willing to leave my comfort zone so far)
+Tired, and spent a lot of time in member list of the Verein.
+taking a break from 100doc, not willing to leave my comfort zone so far
+on a weekend.
 
 [Tweet link](https://twitter.com/lakuehn/status/1226578711442608128?s=20)
 
