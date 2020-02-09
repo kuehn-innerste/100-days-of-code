@@ -85,3 +85,10 @@ But on the other side I had a good afternoon with Pio and could help
 him forget his problems.
 
 [Tweet link](https://twitter.com/lakuehn/status/1226252294192353280?s=20)
+
+### R1D8
+
+Tired, almost ill: break (not willing to leave my comfort zone so far)
+
+[Tweet link](https://twitter.com/lakuehn/status/1226578711442608128?s=20)
+
