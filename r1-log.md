@@ -94,3 +94,13 @@ on a weekend.
 
 [Tweet link](https://twitter.com/lakuehn/status/1226578711442608128?s=20)
 
+### R1D9
+
+The second chapter of the mega flask tutorial.
+
+* requirements.txt
+* config.py with Config class for configuration
+* usage of jinja2 templates and template inheritance
+* enlisted as patreon for the author of the tutorial
+
+[Twitter link](https://twitter.com/lakuehn/status/1226968965395734529?s=20)
