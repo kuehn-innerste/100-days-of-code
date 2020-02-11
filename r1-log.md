@@ -104,3 +104,11 @@ The second chapter of the mega flask tutorial.
 * enlisted as patreon for the author of the tutorial
 
 [Twitter link](https://twitter.com/lakuehn/status/1226968965395734529?s=20)
+
+### R1D10
+
+The third chapter of the mega flask tutorial.
+
+* great things to come with WTForms, I guess
+
+[Tweet link](https://twitter.com/lakuehn/status/1227302115686670342?s=20)
