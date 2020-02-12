@@ -112,3 +112,10 @@ The third chapter of the mega flask tutorial.
 * great things to come with WTForms, I guess
 
 [Tweet link](https://twitter.com/lakuehn/status/1227302115686670342?s=20)
+
+### R1D11 (break)
+
+Today there was nothing but work, lunch, choir and after work work.
+I realized that before I continue my #100daysofcode challenge I need
+to work on my #45daysofbirthdaypreparation challenge for my daughter.
+And on my #GetMyStuffDoneForANewJob...
